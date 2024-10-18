@@ -1,7 +1,7 @@
-# Aula04: Teste de Hipóteses e Intervalos de Confiança
+# Aula04: Teste de Hipóteses e Intervalos de Confiança para Médias e Proporções para 1 e 2 amostras
 
 
-Nesta aula vimos como funciona na prática quando queremos realizar testes de hipóteses e usar intervalos de confiança para podermos fazer inferências sobre uma população a partir de uma amostra.
+Nesta aula vimos como funciona na prática quando queremos realizar testes de hipóteses para comparar médias e proporções para 1 e 2 amostras e usar intervalos de confiança para podermos fazer inferências sobre uma população a partir de uma amostra.
 
 Neste repositório você irá encontrar:
 
@@ -23,7 +23,7 @@ Este repositório contém os arquivos e códigos necessários para a aula de Est
 No terminal, clone este repositório:
 
 ```bash
-git clone https://github.com/EbaPed/EBA_para_casa_aula01.git
+git clone https://github.com/EbaPed/EBA-aula04-TesteHipoteseIntervaloConfianca.git
 cd EBA_aula01_EstatisticaDescritiva
 ```
 
