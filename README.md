@@ -24,7 +24,7 @@ No terminal, clone este repositório:
 
 ```bash
 git clone https://github.com/EbaPed/EBA-aula04-TesteHipoteseIntervaloConfianca.git
-cd EBA_aula01_EstatisticaDescritiva
+cd EBA-aula04-TesteHipoteseIntervaloConfianca
 ```
 
 2. **Configurar a versão do Python com Pyenv**
